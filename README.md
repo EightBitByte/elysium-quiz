@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+> elysium-quiz
 
-## Getting Started
+A Disco Elysium inspired web app quiz. Run through the quiz of roughly 50 questions, answering on a 1 to 5 scale. Your skills will be evaluated, as they are in the game. Answer honestly, and truthfully! You will be able to read up on each skill afterwards and see what your main skill is.
 
-First, run the development server:
+### Background
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I first had the idea to make this quiz after taking the [16personalities](https://www.16personalities.com/) quiz, and realized it could be applied to Disco Elysium, one of my favorite videogames and literary pieces. I'm also learning next.js, so I felt this would be a good way to put it to the test!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Roadmap
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [ ] Figma Work
+    - [ ] Basic Wireframing
+    - [ ] Basic Styling
+    - [ ] Custom Elements (jpgs, svgs, etc.)
+    - [ ] Compositing
+- [ ] Styling
+    - [ ] HTMX Work
+    - [ ] Tailwind Work
+- [ ] Logic
+    - [ ] TBD...
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Stretch Goals
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [ ] Share your results
+- [ ] Account????
+- [ ] Narration (Ripped from the game)
+- [ ] Animations
